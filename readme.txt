@@ -8,3 +8,5 @@ Creating a new branch is quick.
 change aaa
 change bbb
 change ccc
+
+Creating a new branch is quick & simple.
