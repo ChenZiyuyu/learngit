@@ -9,4 +9,4 @@ change aaa
 change bbb
 change ccc
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
